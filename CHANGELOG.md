@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.0 (2024-01-04)
+
+
+### Features
+
+* Add resources ([8c934bd](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole/commit/8c934bd89074a738f171505cebbbeaf858d29148))
+* Remove # Enforces version for required_providers ([3ab0c9a](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole/commit/3ab0c9aebb50d0a259af2ade1e5d1ad8492dd160))
+
+
+### Bug Fixes
+
+* Auto update Terraform docs ([5baa75b](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole/commit/5baa75bacc9169f798aedbea025848bdc9765949))
+
 ## [1.0.1](https://github.com/kgabriel-hashicorp/terraform-module-template/compare/v1.0.0...v1.0.1) (2024-01-04)
 
 
