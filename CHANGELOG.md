@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole/compare/v1.0.0...v1.1.0) (2024-01-04)
+
+
+### Features
+
+* Create a minor version ([e30b324](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole/commit/e30b324aff3aea59515757b19dd35c0863bf0caa))
+
 ## 1.0.0 (2024-01-04)
 
 
